@@ -11,7 +11,7 @@
 # 网页设计
 主要语言正是HTML，Css，Javascript，开发时主要使用的是Bootstrap框架。
 ## 具体情况
-- 共有三个页面index.html,about.html,works.html分别为导航，介绍和作品。
+- 共有三个页面index.html,about.html,works.html分别为导航，介绍和作品同样代码放在[Github](https://github.com/zhummq/HTML-Css-Javascript)。
 - 有导航栏，时间显示，文字特效，背景图片，按钮
 - 作品界面的主要内容是Markdowm形式的
 当然还有不足之处，项目正在开发中😊
